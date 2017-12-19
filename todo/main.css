@@ -1,3 +1,16 @@
+
 body {
-	background-color:#eceff0;
+	background-color:#bad4ff;
 }
+
+body,
+input {
+	font:1em "Open Sans", sans-serif;
+	color:#363639;
+}
+
+a {
+	text-decoration:none;
+	border-bottom:1px dashed #363639;
+}
+
